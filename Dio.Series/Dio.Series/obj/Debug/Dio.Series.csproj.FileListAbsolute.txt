@@ -1,0 +1,7 @@
+C:\workspace\take-blip-fullstack-developer\Dio.Series\Dio.Series\bin\Debug\Dio.Series.exe.config
+C:\workspace\take-blip-fullstack-developer\Dio.Series\Dio.Series\bin\Debug\Dio.Series.exe
+C:\workspace\take-blip-fullstack-developer\Dio.Series\Dio.Series\bin\Debug\Dio.Series.pdb
+C:\workspace\take-blip-fullstack-developer\Dio.Series\Dio.Series\obj\Debug\Dio.Series.csprojAssemblyReference.cache
+C:\workspace\take-blip-fullstack-developer\Dio.Series\Dio.Series\obj\Debug\Dio.Series.csproj.CoreCompileInputs.cache
+C:\workspace\take-blip-fullstack-developer\Dio.Series\Dio.Series\obj\Debug\Dio.Series.exe
+C:\workspace\take-blip-fullstack-developer\Dio.Series\Dio.Series\obj\Debug\Dio.Series.pdb
