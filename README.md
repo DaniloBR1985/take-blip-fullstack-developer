@@ -1,3 +1,4 @@
-# Projetos do Bootcamp Take Blip Fullstack Developer
+# Criando um catálogo de jogos usando boas práticas de arquitetura com .Net
 
-Olá ! Bem vindo aos meus projetos realizados no Bootcamp.
+Criando o projeto seguindo os cursos do Thiago Campos de Oliveira.
+
