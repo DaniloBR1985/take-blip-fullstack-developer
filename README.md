@@ -1,4 +1,4 @@
-# Criando um catálogo de jogos usando boas práticas de arquitetura com .Net
+# Projetos do Bootcamp Take Blip Fullstack Developer
 
-Criando o projeto seguindo os cursos do Thiago Campos de Oliveira.
+Criados seguindo as aulas dos professores do Curso e alterado por Danilo de Sá Amorim.
 
