@@ -1,0 +1,13 @@
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.exe
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.deps.json
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.json
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.dev.json
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csprojAssemblyReference.cache
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfoInputs.cache
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfo.cs
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\workspace\take-blip-fullstack-developer\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.genruntimeconfig.cache
